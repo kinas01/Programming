@@ -6,7 +6,7 @@
 //const h1 = document.querySelector('h1');
 //const button = document.querySelector('button');
 //button.addEventListener('click', function(){
-  //  document.body.style.backgroundColor = 'blue';
+  //  document.body.style.backgroundColor = 'blue' black;
 //});
 const h1 = document.querySelector('h1');
 const button = document.querySelector('button');
